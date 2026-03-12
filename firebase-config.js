@@ -8,7 +8,7 @@ import {
 } from 'https://www.gstatic.com/firebasejs/10.12.2/firebase-auth.js';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyA6-RrCXbPPZ4VqQRest1n_aojN-goPA",
+  apiKey: "AIzaSyA6-RrCXbPPVPZ4VqQRest1n_aojN-goPA",
   authDomain: "nexus-barber-shop.firebaseapp.com",
   projectId: "nexus-barber-shop",
   storageBucket: "nexus-barber-shop.firebasestorage.app",
